@@ -48,7 +48,7 @@ var personCustomValidators = {
         }
 }
 
-describe('Calculator', function(){
+describe('Person', function(){
     var person = require('../src/person');
 
     beforeEach(function(){
