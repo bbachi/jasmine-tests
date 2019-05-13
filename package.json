@@ -1,0 +1,25 @@
+{
+  "name": "jasmine-tests",
+  "version": "1.0.0",
+  "description": "This is an example project for jasmine testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node jasmine.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbachi/jasmine-tests.git"
+  },
+  "author": "Bhargav Bachina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbachi/jasmine-tests/issues"
+  },
+  "homepage": "https://github.com/bbachi/jasmine-tests#readme",
+  "dependencies": {
+    "jasmine": "^3.3.1"
+  },
+  "devDependencies": {
+    "jasmine-console-reporter": "^3.1.0"
+  }
+}
